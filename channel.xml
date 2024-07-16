@@ -6,7 +6,7 @@
     <project path="vendor/motorola/channel" name="katakishi0/vendor_motorola_channel" remote="github" revision="14.0" />
     
     <!-- Dependências -->
-    <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="github" revision="lineage-21.1" />
-    <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-21.1" />
-    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-21.1" />
+    <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="github" revision="lineage-21" />
+    <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-21" />
+    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-21" />
 </manifest>
